@@ -1,0 +1,84 @@
+
+{"parkings":
+[
+	{
+		"id" : 1,
+		"cars": 
+				 [
+					{
+						"id":34,
+						"immat":"VD334EK",
+						"color":"Jaune",
+						"model":"Peugeot"
+					}
+				,
+					{
+						"id":23,
+						"immat":"VFERSJK",
+						"color": "Noir",
+						"model": "Renault"
+					}
+				,
+					{
+						"id":465,
+						"immat":"VH342JG",
+						"color":"Noir",
+						"model":"Ford"
+					}
+				,
+					{
+						"id":52,
+						"immat":"DG4T2JK",
+						"color":"Jaune",
+						"model":"Ford"
+					}
+				,
+					{
+						"id":85,
+						"immat":"VD332JR",
+						"color":"Rouge",
+						"model":"Peugeot"
+					}	
+					
+				]
+	}
+,
+	{
+		"id" : 2,
+		"cars": 
+				[
+					{
+						"id":34,
+						"immat":"VD334EK",
+						"color":"Jaune",
+						"model":"Peugeot"
+					}
+				,
+					{
+						"id":22,
+						"immat":"VFERSAK",
+						"color":"Jaune",
+						"model":"Fiat"
+					}
+				,
+					{
+						"id":624,
+						"immat":"VH34HJG",
+						"color":"Jaune",
+						"model":"Ford"
+					}
+				,
+					{
+						"id":888,
+						"immat":"VDADJR",
+						"color":"Jaune",
+						"model":"Renault"
+					}
+				
+					
+				]
+	}
+]
+}
+
+
